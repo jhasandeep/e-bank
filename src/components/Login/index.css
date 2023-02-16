@@ -1,0 +1,10 @@
+.bg-container {
+  background-color: darkblue;
+  padding: 80px;
+}
+
+.login-container {
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+}
